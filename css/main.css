@@ -53,8 +53,8 @@ h3 {
 }
 
 p {
-  font-size: 17px;
-  line-height: 22px;
+  font-size: 20px;
+  line-height: 30px;
   color: white;
   font-weight: 400;
 }
@@ -154,11 +154,6 @@ a:hover, a:focus {
   -moz-transition: all 0.35s ease-in-out;
   -o-transition: all 0.35s ease-in-out;
   transition: all 0.35s ease-in-out;
-}
-
-#contentRow div.col-sm-6.col-md-6.col-lg-6.text-right.wow.fadeInUp p {
-   font-size: 20px !important;
-   line-height: 30px !important;
 }
 
 
